@@ -6,7 +6,7 @@
 
 ## Hello there, This is Abdelkarim Bengherbia!
 
-- 🏫 I'm currently a computer systems engineering student at [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/).
+- 🏫 I'm currently a software engineering student at [the Higher School of Computer Science Algiers ESI ex. INI](https://www.esi.dz/).
 
 - 🙋‍♂️ I'm interested in Software engineering and Web3 in Particular!
 
