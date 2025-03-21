@@ -170,8 +170,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/blockchain/121D33" height="40" alt="blockchain logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
   <img width="12" />
     <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
