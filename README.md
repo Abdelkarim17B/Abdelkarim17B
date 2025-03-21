@@ -224,7 +224,7 @@
   <br clear="both">
   <img alt="followers" src="https://img.shields.io/github/followers/Abdelkarim17B?label=Followers&style=social">
   <img width="20" />
-  <img src="https://komarev.com/ghpvc/?username=Abdelkarim17B" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelkarim17B&color=blue" alt="watching_count" />
 </div>
 
 
