@@ -28,7 +28,6 @@
 
 ## Languages and Technologies I'm proficient at
 <div align="center">
-  <!-- Frontend Basics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -39,9 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  
-  <!-- UI Frameworks -->
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -53,9 +50,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" alt="shadcnui logo"  />
   <img width="12" />
-  
-  <!-- Frontend Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -75,9 +70,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
@@ -91,9 +84,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -113,9 +104,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
-  
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -131,9 +120,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
-  
-  <!-- Testing & Development Tools -->
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="40" alt="insomnia logo"  />
   <img width="12" />
@@ -155,9 +142,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
   <img width="12" />
-  
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -173,33 +158,23 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/commonlisp/3FB68B" height="40" alt="lisp logo"  />
   <img width="12" />
-  
-  <!-- Mobile -->
-  <img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="40" alt="reactnative logo"  />
+    <img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="40" alt="reactnative logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="expo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  
-  <!-- AI, Data Science & Low-level -->
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/openmp/003366" height="40" alt="openmp logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/logisim/3949AB" height="40" alt="logisim logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/llm/FF9E0F" height="40" alt="llm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/blockchain/121D33" height="40" alt="blockchain logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
   <img width="12" />
-  
-  <!-- Project Management -->
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" height="40" alt="scrum logo"  />
   <img width="12" />
