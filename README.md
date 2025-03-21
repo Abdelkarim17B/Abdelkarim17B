@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="42" alt="Vuex logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuxt.com%2Fdesign-kit&psig=AOvVaw0wsbDXDqvcZzxAxiQt-4fG&ust=1742656594493000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiA5O27m4wDFQAAAAAdAAAAABAE" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gatsby/663399" height="40" alt="gatsby logo"  />
   <img width="12" />
