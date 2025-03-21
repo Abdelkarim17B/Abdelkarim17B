@@ -58,10 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="42" alt="Vuex logo"  />
-  <img width="12" />
-  <!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuxt.com%2Fdesign-kit&psig=AOvVaw0wsbDXDqvcZzxAxiQt-4fG&ust=1742656594493000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiA5O27m4wDFQAAAAAdAAAAABAE" height="40" alt="nuxtjs logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/gatsby/663399" height="40" alt="gatsby logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
@@ -94,15 +90,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="elasticsearch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
@@ -112,11 +100,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
@@ -140,9 +124,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="sonarqube logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -153,8 +134,6 @@
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
-  <!-- <img width="12" />
-  <img src="https://cdn.simpleicons.org/prolog/FF5722" height="40" alt="prolog logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/commonlisp/3FB68B" height="40" alt="lisp logo"  />
   <img width="12" />
@@ -164,20 +143,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.simpleicons.org/openmp/003366" height="40" alt="openmp logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
-  <img width="12" /> -->
-    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" height="40" alt="scrum logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.simpleicons.org/kanban/167782" height="40" alt="kanban logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/uml/FABD14" height="40" alt="uml logo"  />
   <img width="12" />
 </div>
