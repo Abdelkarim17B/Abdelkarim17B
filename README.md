@@ -1,7 +1,3 @@
-<div align="center">
-  <h1 align="center">WELCOME <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1>
-</div>
-
 <br clear="both">
 
 ## Hello there, This is Abdelkarim Bengherbia!
