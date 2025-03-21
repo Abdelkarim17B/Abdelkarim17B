@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">WELCOME TO MY GITHUB ACCOUNT <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1>
+  <h1 align="center">WELCOME <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1>
 </div>
 
 <br clear="both">
@@ -28,7 +28,7 @@
 
 ## Languages and Technologies I'm proficient at
 <div align="center">
-  <!-- Frontend -->
+  <!-- Frontend Basics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -39,31 +39,79 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  
+  <!-- UI Frameworks -->
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/chakra-ui.png" height="45" alt="chakraui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/radixui/161618" height="40" alt="radixui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" alt="shadcnui logo"  />
+  <img width="12" />
+  
+  <!-- Frontend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="42" alt="Vuex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gatsby/663399" height="40" alt="gatsby logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="remix logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
+  <img width="12" />
   
-  <!-- Backend & Databases -->
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
   <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   
   <!-- DevOps & Cloud -->
@@ -73,7 +121,39 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  
+  <!-- Testing & Development Tools -->
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="junit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="sonarqube logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
   <img width="12" />
   
   <!-- Programming Languages -->
@@ -87,17 +167,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
   <img width="12" />
-  
-  <!-- Testing & Tools -->
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/prolog/FF5722" height="40" alt="prolog logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="junit logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="swagger logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="sonarqube logo"  />
+  <img src="https://cdn.simpleicons.org/commonlisp/3FB68B" height="40" alt="lisp logo"  />
   <img width="12" />
   
   <!-- Mobile -->
@@ -105,13 +179,34 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="expo logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
   
-  <!-- AI & Data -->
+  <!-- AI, Data Science & Low-level -->
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img src="https://cdn.simpleicons.org/openmp/003366" height="40" alt="openmp logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="elasticsearch logo"  />
+  <img src="https://cdn.simpleicons.org/logisim/3949AB" height="40" alt="logisim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/llm/FF9E0F" height="40" alt="llm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/blockchain/121D33" height="40" alt="blockchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
+  <img width="12" />
+  
+  <!-- Project Management -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" height="40" alt="scrum logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kanban/167782" height="40" alt="kanban logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/uml/FABD14" height="40" alt="uml logo"  />
+  <img width="12" />
 </div>
 
 <br clear="both">
