@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" alt="shadcnui logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -60,8 +60,8 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="42" alt="Vuex logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuxt.com%2Fdesign-kit&psig=AOvVaw0wsbDXDqvcZzxAxiQt-4fG&ust=1742656594493000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiA5O27m4wDFQAAAAAdAAAAABAE" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
+  <!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuxt.com%2Fdesign-kit&psig=AOvVaw0wsbDXDqvcZzxAxiQt-4fG&ust=1742656594493000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiA5O27m4wDFQAAAAAdAAAAABAE" height="40" alt="nuxtjs logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/gatsby/663399" height="40" alt="gatsby logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
@@ -153,12 +153,12 @@
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prolog/FF5722" height="40" alt="prolog logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.simpleicons.org/prolog/FF5722" height="40" alt="prolog logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/commonlisp/3FB68B" height="40" alt="lisp logo"  />
   <img width="12" />
-    <img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="40" alt="reactnative logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactnative logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="expo logo"  />
   <img width="12" />
@@ -166,18 +166,18 @@
   <img width="12" />
     <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openmp/003366" height="40" alt="openmp logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/openmp/003366" height="40" alt="openmp logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/foundry/5B4739" height="40" alt="foundry logo"  />
+  <img width="12" /> -->
     <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" height="40" alt="scrum logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kanban/167782" height="40" alt="kanban logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/kanban/167782" height="40" alt="kanban logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/uml/FABD14" height="40" alt="uml logo"  />
   <img width="12" />
 </div>
