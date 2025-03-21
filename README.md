@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-## Languages and Technologies I'm proficient at
+## Languages and Technologies I worked with before
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -149,22 +149,6 @@
 </div>
 
 <br clear="both">
-
-## Github Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelkarim17B&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <br clear="both">
-  <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkarim17B&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
-  <img width="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelkarim17B&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=radical" height="160" alt="languages graph"  />
-  <br clear="both">
-  <br clear="both">
-  <img alt="followers" src="https://img.shields.io/github/followers/Abdelkarim17B?label=Followers&style=social">
-  <img width="20" />
-  <img src="https://komarev.com/ghpvc/?username=Abdelkarim17B&color=blue" alt="watching_count" />
-</div>
 
 
 [discord]: https://discordapp.com/users/abdelkarim_bengherbia
