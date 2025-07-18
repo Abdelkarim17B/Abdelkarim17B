@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-## Technical Skills
+## Technical Stack
 
 ### Programming Languages
 <div align="center">
