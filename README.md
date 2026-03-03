@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently pursuing a Master's in Networks and Systems Engineering at Paris Saclay University.
 
-- 🙋‍♂️ I'm interested in Software engineering and Web3 in Particular!
+- 🙋‍♂️ I'm interested in Software engineering !
 
 - 💁‍♂️ I'm looking to collaborate on open source software projects.
 
